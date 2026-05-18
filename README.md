@@ -197,9 +197,26 @@ AI-job-assistant/
 ## 🙋 Author
 
 **Akash Parley**
+<div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-AkashParley-181717?style=flat&logo=github)](https://github.com/AkashParley)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+### 👨‍💻 Akash Parley
+
+<a href="https://github.com/AkashParley">
+  <img src="https://img.shields.io/badge/GitHub-AkashParley-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/akash-parley-9446292a8">
+  <img src="https://img.shields.io/badge/LinkedIn-Akash%20Parley-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/AkashParley/AI-job-assistant">
+  <img src="https://img.shields.io/badge/⭐%20Star%20this%20repo-6366f1?style=for-the-badge" />
+</a>
+
+<br/>
+<sub>If this project helped you, consider giving it a ⭐ — it helps others find it too.</sub>
+
+</div>
 
 ---
 
