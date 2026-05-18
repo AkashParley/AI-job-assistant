@@ -12,7 +12,7 @@
 [![Groq](https://img.shields.io/badge/Groq-LLaMA%203.3-F55036?style=for-the-badge)](https://groq.com)
 [![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20DB-FF6B35?style=for-the-badge)](https://trychroma.com)
 
-<img width="900" alt="App Screenshot" src="https://raw.githubusercontent.com/AkashParley/AI-job-assistant/main/assets/demo.png"/>
+<img width="900" alt="App Screenshot" src="https://raw.githubusercontent.com/AkashParley/AI-job-assistant/main/assets/demo1.png"/>
 
 </div>
 
@@ -190,7 +190,7 @@ AI-job-assistant/
 
 | Gap Analysis | Interview Prep |
 |---|---|
-| ![Gap](assets/gap.png) | ![Interview](assets/interview.png) |
+| ![Gap](assets/gap.png) | ![Interview](assets/suggestions.png) |
 
 ---
 
